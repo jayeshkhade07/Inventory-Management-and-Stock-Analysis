@@ -123,7 +123,7 @@ The project provides insights into:
 - Status wise in car inventory stock is **179-Available,165-Sold and 157-Reserved**.
 - The comparing brand vs status are most available car is **Nissan** brand, most reserve car in **tesla** brand and most sold car is **kia** brand.
 - **Kia** is a most highest revenue brand.
-- Model wise sale in **Camry is the best model **of others.
+- Model wise sale in **Camry is the best model** of others.
 - The **2019** are the highest selling year.
 - Engine type VS Status they **Sold cars** (Petrol-351,Diesel-419,Electric-448,Hybrid-332),**Available cars** (Petrol-477,Diesel-485,Electric-482,Hybrid-380),**Reserved cars** (Petrol-386,Diesel-437,Electric-380,Hybrid-415)
 
