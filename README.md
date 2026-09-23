@@ -5,3 +5,12 @@ Car Inventory Management and Stock Analysis is an Excel-based data analysis proj
 
 The project provides a structured view of car inventory data and helps understand **stock levels, vehicle details, pricing, and inventory status for better business analysis and decision-making.**
 
+##  🎯 Objectives
+- Analyze car inventory data
+- Understand available, reserved, and sold stock
+- Analyze car prices and quantities
+- Identify inventory status and stock levels
+- Analyze brand-wise and model-wise inventory
+- Calculate revenue based on price and quantity
+- Create meaningful Pivot Tables and visualizations
+- Present important business insights through a dashboard
