@@ -1,5 +1,5 @@
 # 🚗 Car Inventory Management and Stock Analysis
-![image alt](car inventory screenshot.png)
+![image alt](https://github.com/jayeshkhade07/Inventory-Management-and-Stock-Analysis/blob/main/car%20inventory%20screenshot.png)
 # 📊 Project Overview
 Car Inventory Management and Stock Analysis is an Excel-based data analysis project designed to **analyze car inventory, stock sold,reserv,availability, pricing, and sales-related information.**
 
